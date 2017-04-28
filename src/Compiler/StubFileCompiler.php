@@ -5,7 +5,7 @@ namespace Sargilla\Filesystem\Compiler;
 /**
  * Class StubFileCompiler.
  *
- * @package Acacha\Filesystem\Compiler
+ * @package Sargilla\Filesystem\Compiler
  */
 class StubFileCompiler
 {

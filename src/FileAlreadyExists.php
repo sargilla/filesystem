@@ -5,7 +5,7 @@ namespace Sargilla\Filesystem;
 /**
  * Class FileAlreadyExists.
  *
- * @package Acacha\Filesystem\Filesystem
+ * @package Sargilla\Filesystem\Filesystem
  */
 class FileAlreadyExists extends \Exception
 {

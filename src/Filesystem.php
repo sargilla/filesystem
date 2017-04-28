@@ -5,7 +5,7 @@ namespace Sargilla\Filesystem;
 /**
  * Class Filesystem.
  *
- * @package Acacha\Filesystem\Filesystem
+ * @package Sargilla\Filesystem\Filesystem
  */
 class Filesystem
 {
