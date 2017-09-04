@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "sargilla\\Filesystem\\": "src"
+            "Sargilla\\Filesystem\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "sargilla\\Filesystem\\": "tests"
+            "Sargilla\\Filesystem\\": "tests"
         }
     },
     "scripts": {
